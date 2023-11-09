@@ -1,0 +1,969 @@
+{
+ "name": "flare",
+ "children":
+ [
+   {
+     "name": "School of Computing and Creative Technologies",
+     "type": "research",
+     "category": "cluster",
+     "funding": 0,
+     "publications": 0,
+     "industry enquiries": 0,
+     "graduate outcomes": 0,
+     "children":
+     [
+
+        {
+          "name": "Foundry",
+          "type": "research",
+          "category": "cluster",
+          "funding": 0,
+          "publications": 0,
+          "industry enquiries": 0,
+          "graduate outcomes": 0,
+          "children":
+           [
+             {
+               "name": "Foundry Team",
+               "children":
+                 [
+                   {"name": "Mic Palmer", "value": 30, "category": "key_person", "email": "mic.palmer@uwe.ac.uk"},
+                   {"name": "Charlie Blaise", "value": 10, "category": "person"},
+                   {"name": "Wojciech Chmielewski", "value": 10, "category": "person"},
+                   {"name": "Quinn McNeil", "value": 10, "category": "person"},
+                   {"name": "Daniel Ellacott", "value": 10, "category": "person"},
+                   {"name": "Constance Fleuriot", "value": 10, "category": "person"},
+                   {"name": "Anderson Irawan", "value": 10, "category": "person"},
+                   {"name": "Grace Tuddenham", "value": 10, "category": "person"},
+                   {"name": "Rahil Al Jassasi", "value": 10, "category": "person"}
+                 ]
+             },
+             {"name": "Pretty Digital", "value": 3},
+             {"name": "PlayWest", "value": 3},
+             {"name": "Tidy Games", "value": 3},
+             {"name": "Manifold Games", "value": 3},
+             {"name": "Institute of Coding", "value": 3},
+             {"name": "Design Enterprise Studio", "value": 3},
+             {"name": "UWE IT Services", "value": 3},
+             {"name": "Future Space", "value": 3},
+             {"name": "Kikro", "value": 3}
+           ]
+        },
+
+        {
+         "name": "Creative Technologies Lab",
+         "type": "research",
+          "category": "cluster",
+          "funding": 0,
+         "publications": 0,
+         "industry enquiries": 0,
+         "graduate outcomes": 0,
+         "children":
+         [
+           {
+             "name": "Members",
+             "children":
+             [
+               {"name": "Tom Mitchell", "value": 30, "category": "key_person", "email": "tom.mitchell@uwe.ac.uk"},
+               {"name": "Lloyd Savickas", "value": 10, "category": "person"},
+               {"name": "Bruce McLaren", "value": 10, "category": "person"},
+               {"name": "Rod Dickinson", "value": 10, "category": "person"},
+               {"name": "Nikolaos Ersotelos", "value": 10, "category": "person"},
+               {"name": "Luke Child", "value": 10, "category": "person"},
+               {"name": "Mary Jackson", "value": 10, "category": "person"},
+               {"name": "Lindsey Macaulay-Lowe", "value": 10, "category": "person"},
+               {"name": "Alan O Connell", "value": 10, "category": "person"},
+               {"name": "Luke Reed", "value": 10, "category": "person"},
+               {"name": "Richard Wakeling-Gentle", "value": 10, "category": "person"},
+               {"name": "Chris Nash", "value": 10, "category": "person"},
+               {"name": "Bethany Mackey", "value": 10, "category": "person"},
+               {"name": "Owen Lloyd", "value": 10, "category": "person"},
+               {"name": "Mic Palmer", "value": 10, "category": "person"},
+               {"name": "Maxwell Davies", "value": 10, "category": "person"},
+               {"name": "Liz Lane", "value": 10, "category": "person"}
+             ]
+           },
+           {
+             "name": "Digital Audio",
+             "children":
+             [
+               {"name": "Computer generated music", "member": "Tom Mitchell", "value":  3},
+               {"name": "Molecular musical instruments", "member": "Tom Mitchell", "value": 3},
+               {"name": "Gestural digital musical instruments", "member": "Tom Mitchell", "value": 3},
+               {"name": "GPU accelerating sound matching", "member": "Tom Mitchell", "value": 3},
+               {"name": "Audio attribute framework", "member": "Tom Mitchell", "value": 3},
+               {"name": "Crowd-driven music", "member": "Chris Nash" , "value": 3},
+               {"name": "Children's music composition", "member": "Chris Nash" , "value": 3},
+               {"name": "Moving Hues", "member": "Maxwell Davies" , "value": 3},
+               {"name": "Digital luthiers", "member": "Tom Mitchell", "value": 3}
+             ]
+           },
+           {
+             "name": "Robotics",
+             "children":
+             [
+               {"name": "Telerobotic Operation", "member": "Tom Mitchell", "value": 3},
+               {"name": "Immersive control of a robot surrogate", "member": "Bethany Mackey", "value": 3}
+             ]
+           },
+           {
+             "name": "Artificial Intelligence",
+             "children":
+             [
+               {"name": "Emotional human-computer integration", "member": "Rod Dickinson" , "value": 3},
+               {"name": "Machine learning algorithms", "member": "Nikolaos Ersotelos" , "value": 3}
+             ]
+           },
+           {
+             "name": "Virtual Reality",
+             "children":
+             [
+               {"name": "Virtual reality robot teleoperation", "member": "Tom Mitchell", "value": 3},
+               {"name": "Virtual reality robotic surrogate", "member": "Bethany Mackey", "value": 3},
+               {"name": "Sound in virtual realities", "member": "Luke Reed" , "value": 3}
+             ]
+           }
+         ]
+       },
+
+       {
+         "name": "Industry Advisory Board",
+         "type": "outreach",
+         "category": "cluster",
+         "funding": 0,
+         "publications": 0,
+         "industry enquiries": 0,
+         "graduate outcomes": 0,
+         "children":
+         [
+           {
+             "name": "Members",
+             "children":
+             [
+               {"name": "Mic Palmer", "value": 30, "category": "key_person", "email": "mic.palmer@uwe.ac.uk"},
+               {"name": "Phil Legg", "value": 10, "category": "person"},
+               {"name": "Paul Matthews", "value": 10, "category": "person"},
+               {"name": "Kevin Golden", "value": 10, "category": "person"},
+               {"name": "Kamran Munir", "value": 10, "category": "person"},
+               {"name": "Mehmet Aydin", "value": 10, "category": "person"},
+               {"name": "Benedict Gaster", "value": 10, "category": "person"},
+               {"name": "Luke Reed", "value": 10, "category": "person"},
+               {"name": "Charlie Blaise", "value": 10, "category": "person"}
+             ]
+           },
+           {
+             "name": "Cyber security",
+             "children":
+             [
+               {"name": "Anti-evasion malware triggers", "member": "Phil Legg", "value": 3},
+               {"name": "Adversial machine learning attacks", "member": "Phil Legg", "value": 3},
+               {"name": "Hacking an IoT Home", "member": "Phil Legg", "value": 3},
+               {"name": "Unsupervised one-class learning", "member": "Phil Legg", "value": 3},
+               {"name": "Malware propagation", "member": "Phil Legg", "value": 3},
+               {"name": "Deep learning-based security", "member": "Phil Legg", "value": 3},
+               {"name": "Visualisation for security analysis", "member": "Phil Legg", "value": 3},
+               {"name": "Defending machine learning attacks", "member": "Phil Legg", "value": 3},
+               {"name": "Adversarial machine learning", "member": "Phil Legg", "value": 3},
+               {"name": "Teaching offensive & defensive cyber security", "member": "Phil Legg", "value": 3},
+               {"name": "Interactive cyber-physical system hacking", "member": "Phil Legg", "value": 3}
+             ]
+           },
+           {
+             "name": "Data Science",
+             "children":
+             [
+               {"name": "Predictive and Preventive Maintenance", "member": "Kamran Munir", "value": 3},
+               {"name": "Uncertainty assisted identification", "member": "Kamran Munir", "value": 3},
+               {"name": "Region-based video surveillance", "member": "Kamran Munir", "value": 3},
+               {"name": "Arabic semantic similarity", "member": "Kamran Munir", "value": 3},
+               {"name": "AgroSupportAnalytics", "member": "Kamran Munir", "value": 3},
+               {"name": "Ontology-based compliance audit framework", "member": "Kamran Munir", "value": 3},
+               {"name": "IoT technologies for livestock management", "member": "Kamran Munir", "value": 3},
+               {"name": "Big data recommender system", "member": "Kamran Munir", "value": 3},
+               {"name": "Genre analysis of movies", "member": "Paul Matthews" , "value": 3},
+               {"name": "Analysing predictivity", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Mathematics support for non-specialists", "member": "Kevin Golden" , "value": 3}
+             ]
+           },
+           {
+             "name": "Networks and Mobile Computing",
+             "children":
+             [
+               {"name": "Software fault prediction", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Modelling interrelationship between diseases", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Problem classification", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Multi strategy search", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Transfer learning for operator selection", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Pandemic management", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Modelling diseases", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Novel software fault prediction", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Generating test cases for chronic diseases", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Strategic search algorithm", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Binary search operators", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Digital transformation", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Solving set union knapstack problems", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Elicitation of factors affecting electricity", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Max-gain relay selection", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Energy efficient water resource management", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Video streaming on the edge of 5G", "member": "Mehmet Aydin", "value": 3}
+             ]
+           },
+           {
+             "name": "Digital Audio",
+             "children":
+             [
+               {"name": "Audio Anywhere with Faust", "member": "Benedict Gaster" , "value": 3},
+               {"name": "Digital luthiers", "member": "Benedict Gaster" , "value": 3},
+               {"name": "GPU accelerating sound matching", "member": "Benedict Gaster" , "value": 3},
+               {"name": "Sound in virtual realities", "member": "Luke Reed" , "value": 3},
+               {"name": "Bespoke anywhere", "member": "Benedict Gaster" , "value": 3},
+               {"name": "PlayShell", "member": "Benedict Gaster" , "value": 3}
+             ]
+           },
+           {
+             "name": "Artificial Intelligence",
+             "children":
+             [
+               {"name": "Eye-tracking technology", "member": "Paul Matthews" , "value": 3},
+               {"name": "Artificial bee colony algorithms", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Adaptive operator selection", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Learning-based operator selection", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Adaptive binary artificial bee colony", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Multiple pursuers TrailMax algorithm", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Multi-agent path planning", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Strategy-based algorithm", "member": "Mehmet Aydin", "value": 3}
+             ]
+           }
+         ]
+       },
+
+
+       {
+         "name": "Unconventional Computing",
+         "type": "research",
+         "category": "cluster",
+         "funding": 0,
+         "publications": 0,
+         "industry enquiries": 0,
+         "graduate outcomes": 0,
+         "children":
+         [
+           {
+             "name": "Researchers",
+             "children":
+             [
+               {"name": "Andy Adamatzky", "value": 30, "category": "key_person", "email": "andrew.adamatzky@uwe.ac.uk"},
+               {"name": "Neil Phillips", "value": 10, "category": "person"},
+               {"name": "Antisthenis Tsompanas", "value": 10, "category": "person"},
+               {"name": "Anna Nikolaidou", "value": 10, "category": "person"},
+               {"name": "Zlatko Baracskai", "value": 10, "category": "person"},
+               {"name": "Noushin Raesi Khaeirabadi", "value": 10, "category": "person"},
+               {"name": "Saksham Sharma", "value": 10, "category": "person"},
+               {"name": "Panagiotis Mougoyannis", "value": 10, "category": "person"},
+               {"name": "Thomas Leon Wood", "value": 10, "category": "person"}
+             ]
+           },
+           {
+             "name": "Medical",
+             "children":
+             [
+               {"name": "Cancer therapies", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Cancer treatment simulations", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Nanoparticle cancer treatments", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Nanocarriers for cancer treatment", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Cancer treatments", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "The human volatilome", "member": "Ben De Lacy Costello", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Proteinoid microspheres", "member": "Panagiotis Mougoyannis", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Electrical waves in proteinoid spheres", "member": "Panagiotis Mougoyannis", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Nanoparticle cancer treatments", "member": "Antisthenis Tsompanas", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Compound testing for suspected cancer", "member": "Ben De Lacy Costello", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Biomarkers of bladder cancer", "member": "Ben De Lacy Costello", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Volatile compounds from humans", "member": "Ben De Lacy Costello", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Antibiotic susceptibility", "member": "Ben De Lacy Costello", "year": 2021, "type": "Journal Article", "value": 3}
+             ]
+           },
+           {
+             "name": "Biological Computing",
+             "children":
+             [
+               {"name": "Reactive fungal wearable", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Fungal electronics", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Properties of mushrooms", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Living wearables from slime and fungi", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Protein structure", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Stimulating fungi", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Unconventional signal processing", "member": "Zlatko Baracskai" , "value": 3},
+               {"name": "Proteinoid microspheres", "member": "Adam Adamatzky", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Fungi electrical response", "member": "Adam Adamatzky", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Responsive fungal insoles", "member": "Adam Adamatzky", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Living plants ecosystem", "member": "Adam Adamatzky", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Low frequency waves", "member": "Adam Adamatzky", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Proteinoid microspheres", "member": "Neil Phillips", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Electrical response of fungi", "member": "Neil Phillips", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Responsive fungal insoles", "member": "Neil Phillips", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Chlorella sensors", "member": "Neil Phillips", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Fungal electronics", "member": "Neil Phillips", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Responsive fungal insoles", "member": "Antisthenis Tsompanas", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Evolutionary algorithm", "member": "Antisthenis Tsompanas", "year": 2022, "type": "Book Chapter", "value": 3},
+               {"name": "Cellular automata application", "member": "Antisthenis Tsompanas", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "Chimera states in automata networks", "member": "Antisthenis Tsompanas", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Chemical Wave Computing", "member": "Antisthenis Tsompanas", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Mem-fractive properties of mushrooms", "member": "Antisthenis Tsompanas", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Evolutionary computational platform", "member": "Antisthenis Tsompanas", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Metameric representations", "member": "Antisthenis Tsompanas", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Neural networks", "member": "Antisthenis Tsompanas", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Responsive fungal insoles", "member": "Anna Nikolaidou", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Fungal electronics", "member": "Anna Nikolaidou", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Stimulating fungie Pleurotus", "member": "Anna Nikolaidou", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Living wearables from slime", "member": "Anna Nikolaidou", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Reactive fungal wearable", "member": "Anna Nikolaidou", "year": 2021, "type": "Journal Article", "value": 3}
+             ]
+           },
+           {
+             "name": "Artificial Intelligence",
+             "children":
+             [
+               {"name": "Robot narratives", "member": "Andy Adamatzky" , "value": 3},
+               {"name": "Marimo acuated rover systems", "member": "Neil Phillips", "year": 2022, "type": "Journal Article", "value": 3}
+             ]
+           },
+           {
+             "name": "Digital Audio",
+             "children":
+             [
+               {"name": "Musical signal processing", "member": "Zlatko Baracskai", "year": 2022, "type": "Book Chapter", "value": 3}
+             ]
+           },
+           {
+             "name": "Electrical",
+             "children":
+             [
+               {"name": "Triboelectric nanogenerator", "member": "Noushin Raesi Khaeirabadi", "year": 2023, "type": "Journal Article", "value": 3}
+             ]
+           },
+           {
+             "name": "Geography",
+             "children":
+             [
+               {"name": "Resilience to climate change", "member": "Neil Phillips", "year": 2021, "type": "Journal Article", "value": 3}
+             ]
+           }
+         ]
+       },
+
+
+       {
+         "name": "Design Enterprise Studio",
+         "type": "agency",
+         "category": "cluster",
+         "funding": 0,
+         "publications": 0,
+         "industry enquiries": 0,
+         "graduate outcomes": 0,
+         "children":
+         [
+           {
+             "name": "Members",
+             "children":
+             [
+               {"name": "Mic Palmer", "value": 30, "category": "key_person", "email": "mic.palmer@uwe.ac.uk"},
+               {"name": "Mary Jackson", "value": 10, "category": "person"},
+               {"name": "Jack Ruskin", "value": 10, "category": "person"}
+             ]
+           },
+           {
+             "name": "Web Design",
+             "children":
+             [
+               {"name": "Bricks Bristol", "value": 3},
+               {"name": "Gestetner 140", "value": 3},
+               {"name": "Artstation Plc", "value": 3},
+               {"name": "uwedigitalmedia", "value": 3},
+               {"name": "AmphibiaBase Ltd", "value": 3},
+               {"name": "Buqiworks", "value": 3},
+               {"name": "The Foundry", "value": 3},
+               {"name": "Smartlight.AI Ltd", "value": 3},
+               {"name": "SmartPump.AI Ltd", "value": 3},
+               {"name": "TechTalent", "value": 3},
+               {"name": "UnlockCyber", "value": 3}
+             ]
+           },
+           {
+             "name": "Social Media",
+             "children":
+             [
+               {"name": "Thinkfully Ltd", "value": 3},
+               {"name": "Tumaini Children's Charity", "value": 3},
+               {"name": "Somerset Rail to Trail", "value": 3}
+             ]
+           },
+           {
+             "name": "UX and UI",
+             "children":
+             [
+               {"name": "Aardman Ltd", "value": 3},
+               {"name": "Cerberus Security Laboratories Plc", "value": 3},
+               {"name": "TVPP Ltd", "value": 3},
+               {"name": "Baggator Ltd", "value": 3},
+               {"name": "IC-Visual Lab C.I.C. Plc", "value": 3}
+             ]
+           },
+           {
+             "name": "App Design",
+             "children":
+             [
+               {"name": "Lifeskills Learning for Living Plc", "value": 3},
+               {"name": "Winterbourne and Frome Environmental Group", "value": 3},
+               {"name": "GolfHopper", "value": 3}
+             ]
+           },
+           {
+             "name": "Projection Mapping",
+             "children":
+             [
+               {"name": "Baggator Nexus", "value": 3},
+               {"name": "Maxwell Davies", "value": 3},
+               {"name": "Peace of Art", "value": 3},
+               {"name": "St George's Bristol Ltd", "value": 3}
+             ]
+           },
+           {
+             "name": "Information Visualisation",
+             "children":
+             [
+               {"name": "Rolls Royce Plc", "value": 3},
+               {"name": "Black & Green Ambassadors", "value": 3}
+             ]
+           },
+           {
+             "name": "Branding",
+             "children":
+             [
+               {"name": "St Mary's RFC", "value": 3},
+               {"name": "CircularWorks", "value": 3},
+               {"name": "GolfHopper", "value": 3},
+               {"name": "AmphibiaBase Ltd", "value": 3}
+             ]
+           },
+           {
+             "name": "Design Competitions",
+             "children":
+             [
+               {"name": "Phillips Design Competition", "value": 3}
+             ]
+           }
+         ]
+       },
+
+
+       {
+         "name": "Computer Science Research Centre",
+         "type": "research",
+         "category": "cluster",
+         "funding": 0,
+         "publications": 0,
+         "industry enquiries": 0,
+         "graduate outcomes": 0,
+         "children":
+         [
+           {
+             "name": "Members",
+             "children":
+             [
+               {
+                 "name": "Artificial intelligence",
+                 "children":
+                 [
+                   {"name": "Larry Bull", "value": 30, "category": "key_person", "email": "larry.bull@uwe.ac.uk"},
+                   {"name": "Mehmet Aydin", "value": 10, "category": "person"},
+                   {"name": "Steve Battle", "value": 10, "category": "person"},
+                   {"name": "Nathan Duran", "value": 10, "category": "person"},
+                   {"name": "Marco Perez Hernandez", "value": 10, "category": "person"},
+                   {"name": "Haixia Liu", "value": 10, "category": "person"},
+                   {"name": "Emmanuel Ogunshile", "value": 10, "category": "person"},
+                   {"name": "Martin Serpell", "value": 10, "category": "person"},
+                   {"name": "Jim Smith", "value": 10, "category": "person"},
+                   {"name": "Antisthenis Tsompanas", "value": 10, "category": "person"}
+                 ]
+               },
+               {
+                 "name": "Cyber security",
+                 "children":
+                 [
+                   {"name": "Aida Abzhaparova", "value": 10, "category": "person"},
+                   {"name": "Abdullahi Arabo", "value": 10, "category": "person"},
+                   {"name": "Sarfraz Brohi", "value": 10, "category": "person"},
+                   {"name": "Adam Gorine", "value": 10, "category": "person"},
+                   {"name": "Ahsan Ikram", "value": 10, "category": "person"},
+                   {"name": "Ian Johnson", "value": 10, "category": "person"},
+                   {"name": "Phil Legg", "value": 10, "category": "person"},
+                   {"name": "Mazhar Malik", "value": 10, "category": "person"},
+                   {"name": "Alan Mills", "value": 10, "category": "person"},
+                   {"name": "Jay Murphy", "value": 10, "category": "person"},
+                   {"name": "Zeinab Rezaeifar", "value": 10, "category": "person"},
+                   {"name": "Jonathan White", "value": 10, "category": "person"},
+                   {"name": "Thomas Win", "value": 10, "category": "person"}
+                 ]
+               },
+               {
+                 "name": "Data science",
+                 "children":
+                 [
+                   {"name": "Mahmoud Elbattah", "value": 10, "category": "person"},
+                   {"name": "Ronke Eyitayo", "value": 10, "category": "person"},
+                   {"name": "Jun Hong", "value": 10, "category": "person"},
+                   {"name": "Hisham Ihshaish", "value": 10, "category": "person"},
+                   {"name": "Barkha Javed", "value": 10, "category": "person"},
+                   {"name": "Shelan Jeawak", "value": 10, "category": "person"},
+                   {"name": "Paul Matthews", "value": 10, "category": "person"},
+                   {"name": "Kamran Munir", "value": 10, "category": "person"},
+                   {"name": "Elias Pimenidis", "value": 10, "category": "person"},
+                   {"name": "Eman Qaddoumi", "value": 10, "category": "person"},
+                   {"name": "Raj Ramachandran", "value": 10, "category": "person"}
+                 ]
+               },
+               {
+                 "name": "Expressive Computer Interactions",
+                 "children":
+                 [
+                   {"name": "Frazer Barnes", "value": 10, "category": "person"},
+                   {"name": "Benedict Gaster", "value": 10, "category": "person"},
+                   {"name": "Nathan Renney", "value": 10, "category": "person"}
+                 ]
+               },
+               {
+                 "name": "Smart cities",
+                 "children":
+                 [
+                   {"name": "Elisa Covato", "value": 10, "category": "person"},
+                   {"name": "Djamel Djenouri", "value": 10, "category": "person"},
+                   {"name": "Ahsan Kazmi", "value": 10, "category": "person"},
+                   {"name": "Zaheer Khan", "value": 10, "category": "person"},
+                   {"name": "Kamran Soomro", "value": 10, "category": "person"}
+                 ]
+               }
+             ]
+           },
+           {
+             "name": "Digital Audio",
+             "children":
+             [
+               {"name": "Bespoke anywhere", "member": "Benedict Gaster", "value": 3},
+               {"name": "Audio Anywhere", "member": "Benedict Gaster", "value": 3},
+               {"name": "PlayShell audio experience", "member": "Benedict Gaster", "value": 3},
+               {"name": "GPU accelerated sound synthesis", "member": "Benedict Gaster", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "Digital luthiers", "member": "Benedict Gaster", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "GPU for digital audio synthesis", "member": "Harri Renney","value": 3}
+             ]
+           },
+           {
+             "name": "Artificial Intelligence",
+             "children":
+             [
+               {"name": "Machine learning models", "member": "Jim Smith","value": 3},
+               {"name": "Algorithm selection using machine learning", "member": "Elias Pimenidis","value": 3},
+               {"name": "Movie genre analysis", "member": "Paul Matthews","value": 3},
+               {"name": "Blockchain and artificial intelligence", "member": "Elias Mimenidis","value": 3},
+               {"name": "Artificial dendrites in neuro-evolution", "member": "Larry Bull","value": 3},
+               {"name": "Defending machine learning attacks", "member": "Phil Legg", "value": 3},
+               {"name": "Help desk auto replies", "member": "Steve Battle","value": 3},
+               {"name": "Automated teller machine", "member": "Mehmet Aydin","value": 3},
+               {"name": "Automated anomaly detection", "member": "Elias Pimenidis", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Software fault prediction", "member": "Mehmet Aydin","value": 3},
+               {"name": "Evolving multi-valued networks", "member": "Larry Bull","value": 3},
+               {"name": "Machine learning", "member": "Jim Smith" , "value": 3},
+               {"name": "Context-based adaptation in serious games", "member": "Kamran Munir","value": 3},
+               {"name": "Conversation analysis", "member": "Nathan Duran","value": 3},
+               {"name": "Simulations of Major Innovations", "member": "Larry Bull", "value": 3},
+               {"name": "Automated screening of patients", "member": "Kamran Soomro", "value": 3},
+               {"name": "Output checking", "member": "Jim Smith", "value": 3},
+               {"name": "Java fault prediction", "member": "Mehmet Aydin","value": 3},
+               {"name": "Sentence encoding", "member": "Jim Smith","value": 3},
+               {"name": "Collaborative filtering algorithms", "member": "Elias Pimenidis", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "Memory-constrained context-aware reasoning", "member": "Rakib Abdur", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "Modelling open domain dialogue", "member": "Elias Pimenidis","value": 3},
+               {"name": "Videoconference experience", "member": "Jim Smith", "value": 3},
+               {"name": "SACRO", "member": "Jim Smith" , "value": 3},
+               {"name": "Autonomous Systems", "member": "Steve Battle", "value": 3},
+               {"name": "Neural Networks Conference", "member": "Elias Pimenidis","value": 3},
+               {"name": "Blockchain and artificial intelligence", "member": "Elias Pimenidis", "value": 3},
+               {"name": "Blockchain Auto Meta Learning", "member": "Elias Pimenidis","value": 3},
+               {"name": "Federated blockchained supply chain management", "member": "Elias Pimenidis","value": 3},
+               {"name": "Web-based speech to text", "member": "Raj Ramachandran","value": 3}
+             ]
+           },
+           {
+             "name": "Biological Computing",
+             "children":
+             [
+               {"name": "Test cases for chronic diseases", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Modeling diseases", "member": "Mehmet Aydin","value": 3},
+               {"name": "Enhancing underwater images", "member": "Simon Emberton","value": 3},
+               {"name": "Nanoparticle cancer treatments", "member": "Larry Bull","value": 3},
+               {"name": "Geo-AI to aid disaster response", "member": "Elias Pimenidis","value": 3},
+               {"name": "Intersexual selection", "member": "Larry Bull","value": 3},
+               {"name": "Protein structured computing", "member": "Jim Smith","value": 3},
+               {"name": "Optimisation of nano particle cancer treatment", "member": "Larry Bull","value": 3},
+               {"name": "Interrelationship between diseases", "member": "Mehmet Aydin", "value": 3},
+               {"name": "Cellular automata application", "member": "Michail Tsompanas","value": 3},
+               {"name": "Nanoparticle based cancer treatments", "member": "Larry Bull", "year": 2022, "type": "Book Chapter", "value": 3},
+               {"name": "Patient nutrition in critical care", "member": "Kamran Soomro", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "GREENGAGE", "member": "Zaheer Khan" , "value": 3},
+               {"name": "BioMeld", "member": "Michail-Antisthenis Tsompanas" , "value": 3},
+               {"name": "Commercial chicken production", "member": "Kamran Munir" , "value": 3},
+               {"name": "Domain-Specific Definition", "member": "Shelan Jeawak", "value": 3},
+               {"name": "Distributed control", "member": "Larry Bull", "value": 3},
+               {"name": "Boolean regulatory networks", "member": "Larry Bull", "value": 3},
+               {"name": "Asymmetry in NKCS model", "member": "Larry Bull","value": 3},
+               {"name": "Autoencoding with classifier system", "member": "Larry Bull","value": 3},
+               {"name": "Dropout mechanism for distributed systems", "member": "Larry Bull", "value": 3},
+               {"name": "NK and NKCS models", "member": "Larry Bull", "year": 2022, "type": "Journal Article", "value": 3}
+             ]
+           },
+           {
+             "name": "Cyber",
+             "children":
+             [
+               {"name": "Anomaly detection on network devices", "member": "Phill Legg","value": 3},
+               {"name": "Hacking an IoT Home", "member": "Phill Legg","value": 3}
+             ]
+           }
+         ]
+       },
+
+
+       {
+         "name": "Mathematics and Statistics Research Group",
+         "type": "research",
+         "category": "cluster",
+         "funding": 0,
+         "publications": 0,
+         "industry enquiries": 0,
+         "graduate outcomes": 0,
+         "children":
+         [
+           {
+             "name": "Members",
+             "children":
+             [
+               {"name": "Vadim Zverovich", "value": 30, "category": "key_person", "email": "vadim.zverovich@uwe.ac.uk"},
+               {"name": "Andrew Smith", "value": 30, "category": "key_person", "email": "andrew18.smith@uwe.ac.uk"},
+               {"name": "Jason Anquandah", "value": 10, "category": "person"},
+               {"name": "Lloyd Bridge", "value": 10, "category": "person"},
+               {"name": "Narges Dailami", "value": 10, "category": "person"},
+               {"name": "Ben Derrick", "value": 10, "category": "person"},
+               {"name": "Rhys Gwynllyw", "value": 10, "category": "person"},
+               {"name": "Karen Henderson", "value": 10, "category": "person"},
+               {"name": "Xiaodong Li", "value": 10, "category": "person"},
+               {"name": "Paul Matthews", "value": 10, "category": "person"},
+               {"name": "Tara Rasti", "value": 10, "category": "person"},
+               {"name": "Clemence Rhodes-Maquaire", "value": 10, "category": "person"},
+               {"name": "Indunil Sikurajapathi", "value": 10, "category": "person"},
+               {"name": "Deirdre Toher", "value": 10, "category": "person"},
+               {"name": "Emily Walsh", "value": 10, "category": "person"},
+               {"name": "Paul White", "value": 10, "category": "person"},
+               {
+                 "name": "Associate Members",
+                 "children":
+                 [
+                   {"name": "Hisham Ihshaish", "value": 3, "category": "person"},
+                   {"name": "Mario Orsi", "value": 3, "category": "person"},
+                   {"name": "Kamran Soomro", "value": 3, "category": "person"},
+                   {"name": "Jan Van Lent", "value": 3, "category": "person"},
+                   {"name": "Anush Poghosyan", "value": 3, "category": "person"},
+                   {"name": "Martin Serpell", "value": 3, "category": "person"}
+                 ]
+               }
+             ]
+           },
+
+           {
+             "name": "Applied Statistics",
+             "children":
+             [
+               {"name": "Trans-anal total mesorectal excision", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Beta-blockade with esmolol", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Metabolism, inflammation, nutrition", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Thoracoscopic talc poudrage", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Insulin-like growth factor", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Colorectal cancer model", "member": "Lloyd Bridge", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Immediate breast reconstruction", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Mortality in lung disease", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Bristol Bladder Trial", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Darolutamide treatment for cancer", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Eye-tracking dataset", "member": "Federica Cilia", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "Glycoprotein receptors", "member": "Zahra Maqsood", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "BRIVEST", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Risk of disclosure", "member": "Paul White", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "AI in emergency patient flow", "member": "Emilien Arnaud", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Unicompartmental knee replacement", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Nasointestinal tube placement", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Aortic aneurysm repair", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Tibial plateau fractures", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Nerve-mediated ATP", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Neurocognitive function", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Breast reconstruction", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Spontaneous pnuemothorax", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "PEGASUS intervention", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Molecular characterization", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Unicompartmental arthroplasty", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Body dissatisfaction", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Psychosocial functioning", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Speech and language therapy", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Maternal and offspring depression", "member": "Andrew Smith", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Mobile therapy program", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Body image intervention", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Emergency medicine", "member": "Emilien Arnaud", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Breast conservation", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Chemotherapy for cell carcinoma", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "COVID-19 fertility treatment", "member": "Andrew Smith", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Safety of mastectomy", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Vision-based autism diagnosis", "member": "Mahmoud Elbattah", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "Disclosure risks", "member": "Ben Derrick", "year": 2022, "type": "Presentation/Conference", "value": 3},
+               {"name": "The CARe Burn Scale", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Burn injury quality of life", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Arthroplasty implant", "member": "Paul White", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Effect of child maltreatment", "member": "Andrew Smith", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Childhood adversity", "member": "Andrew Smith", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Autism diagnosis with machine learning", "member": "Mahmoud Elbattah", "year": 2023, "type": "Book Chapter", "value": 3},
+               {"name": "Children's teeth and psychopathology", "member": "Andrew Smith", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Childhood adversity and sensitive periods", "member": "Andrew Smith", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Sensitive periods in childhood", "member": "Andrew Smith", "year": 2022, "type": "Journal Article", "value": 3}
+             ]
+           },
+           {
+             "name": "Education",
+             "children":
+             [
+               {"name": "Common student errors", "member": "Rhys Gwynllyw", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "E-assessments in mathematics", "member": "Karen Henderson", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Student Error in e-Assessments", "member": "Rhys Gwynllyw", "year": 2021, "type": "Presentation/Conference", "value": 3},
+               {"name": "Learning embeddings", "member": "Mahmoud Elbattah", "year": 2022, "type": "Conference Proceeding", "value": 3},
+               {"name": "Errors in e-assessment questions", "member": "Karen Henderson", "year": 2022, "type": "Presentation/Conference", "value": 3},
+               {"name": "Compiling errors in e-assessment", "member": "Karen Henderson", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Enhanced e-assessment feedback", "member": "Rhys Gwynllyw", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "E-assessment of statistics", "member": "Rhys Gwynllyw", "year": 2021, "type": "Journal Article", "value": 3}
+             ]
+           },
+           {
+             "name": "Statistical Methods",
+             "children":
+             [
+               {"name": "Reproducibility of results", "member": "Andrew Smith", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Investigating Browne's method", "member": "Deirdre Toher", "year": 2021, "type": "Presentation/Conference", "value": 3},
+               {"name": "Safety in numbers", "member": "Ben Derrick", "year": 2022, "type": "Presentation/Conference", "value": 3},
+               {"name": "Ordinal Logistic Regression", "member": "Deirdre Toher", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Error margin control", "member": "Paul White", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Partially overlapping samples framework", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Browne's formula", "member": "Deirdre Toher", "year": 2021, "type": "Journal Article", "value": 3},
+               {"name": "Modeling sensitive period effects", "member": "Andrew Smith", "year": 2022, "type": "Book Chapter", "value": 3}
+             ]
+           },
+           {
+             "name": "Graph Theory and Operational Research",
+             "children":
+             [
+               {"name": "Graph Decompositions", "member": "Vadim Zverovich", "year": 2022, "type": "Book", "value": 3},
+               {"name": "Modern applications of Graph Theory", "member": "Vadim Zverovich", "year": 2021, "type": "Book", "value": 3},
+               {"name": "Wind farm cost optimisation", "member": "Xiaodong Li", "year": 2023, "type": "Journal Article", "value": 3},
+               {"name": "Resilient supply chain design", "member": "Xiaodong Li", "year": 2023, "type": "Journal Article", "value": 3}
+             ]
+           },
+           {
+             "name": "Mathematical Biology",
+             "children":
+             [
+               {"name": "Ligand-induced dimerisation", "member": "Carla White", "year": 2022, "type": "Journal Article", "value": 3},
+               {"name": "Atmospheric circulations", "member": "Paul White", "year": 2022, "type": "Journal Article", "value": 3}
+             ]
+           }
+         ]
+       },
+
+
+       {
+         "name": "Community Action and Knowledge Exchange",
+         "type": "consultancy",
+         "category": "cluster",
+         "funding": 0,
+         "publications": 0,
+         "industry enquiries": 0,
+         "graduate outcomes": 0,
+         "children":
+         [
+           {
+             "name": "Members",
+             "children":
+             [
+               {"name": "Kamran Munir", "value": 30, "category": "key_person", "email": "kamran2.munir@uwe.ac.uk"},
+               {"name": "Thomas Barnes", "value": 10, "category": "person"},
+               {"name": "Ian Brooks", "value": 10, "category": "person"},
+               {"name": "Ahsan Ikram", "value": 10, "category": "person"},
+               {"name": "Sami Abuezhayeh ", "value": 10, "category": "person"}
+             ]
+           },
+           {
+             "name": "Web Design",
+             "children":
+             [
+               {"name": "Phoenix Social Enterprise", "value": 3},
+               {"name": "1625 Independent People", "value": 3},
+               {"name": "Young and Free", "value": 3},
+               {"name": "Viva and the VVF", "value": 3},
+               {"name": "St Werburghs Community Centre", "value": 3}
+             ]
+           },
+           {
+             "name": "Consultancy",
+             "children":
+             [
+               {"name": "The Brigstowe Project", "value": 3},
+               {"name": "Park Centre", "value": 3}
+             ]
+           },
+           {
+             "name": "App Design",
+             "children":
+             [
+               {"name": "Oodles app launch", "value": 3}
+             ]
+           },
+           {
+             "name": "Social Media",
+             "children":
+             [
+               {"name": "Ambition Lawrence Weston", "value": 3},
+               {"name": "Thornbury in Bloom", "value": 3},
+               {"name": "Circomedia", "value": 3}
+             ]
+           },
+           {"name": "Avon Valley Railway", "value": 3},
+           {"name": "Babbasa Youth Empowerment Projects CIC", "value": 3},
+           {"name": "Bristol Dementia Action Alliance", "value": 3},
+           {"name": "Bristol Muslim Strategic Leadership Group", "value": 3},
+           {"name": "Community RePaint Network", "value": 3},
+           {"name": "Confederation of Meningitis Organisations", "value": 3},
+           {"name": "Confederation of Meningitis Organisations (CoMO)", "value": 3},
+           {"name": "Glenside Hospital Museum", "value": 3},
+           {"name": "grrrl games", "value": 3},
+           {"name": "Materials In Mind", "value": 3},
+           {"name": "Meningitis Research Foundation", "value": 3},
+           {"name": "MusicSpace", "value": 3},
+           {"name": "North Somerset Beekeepers Club", "value": 3},
+           {"name": "OTR (Off the Record Bristol)", "value": 3},
+           {"name": "Peoples Republic of Stokes Croft (PRSC)", "value": 3},
+           {"name": "Resource Futures", "value": 3},
+           {"name": "Snug Homes Limited", "value": 3},
+           {"name": "The Association of University Engineers", "value": 3},
+           {"name": "The Circle", "value": 3},
+           {"name": "The Clifton Suspension Bridge Trust", "value": 3},
+           {"name": "The Critical Literacy Project / Dilectae", "value": 3}
+         ]
+       },
+
+
+           {
+             "name": "Global Game Jam",
+             "children":
+             [
+               {
+                 "name": "Members",
+                 "children":
+                 [
+                   {"name": "Luke Reed (UWE)", "value": 30, "category": "key_person", "email": "luke.reed@uwe.ac.uk"},
+                   {"name": "Charlie Blaise (Foundry)", "value": 10, "category": "person"},
+                   {"name": "Wojciech Chmielewski (Foundry)", "value": 10, "category": "person"},
+                   {"name": "Quinn McNeil (Foundry)", "value": 10, "category": "person"}
+                 ]
+               },
+               {"name": "Global Game Jam 2023", "member": "Luke Reed", "year": 2023, "type": "event", "value": 3},
+               {"name": "Global Game Jam 2022", "member": "Andy King", "year": 2022, "type": "event", "value": 3},
+               {"name": "Global Game Jam 2021", "member": "Andy King", "year": 2021, "type": "event", "value": 3}
+             ]
+           },
+           {
+             "name": "Control Shift Network",
+             "children":
+             [
+               {
+                 "name": "Members",
+                 "children":
+                 [
+                   {"name": "Rod Dickinson (UWE)", "value": 30, "category": "key_person", "email": "rod.dickinson@uwe.ac.uk"}
+                 ]
+               },
+               {"name": "", "value": 3}
+             ]
+           },
+           {
+             "name": "St Georges Collaborations",
+             "children":
+             [
+               {
+                 "name": "Members",
+                 "children":
+                 [
+                   {"name": "Maxwell Davies (UWE)", "value": 30, "category": "key_person", "email": "maxwell.davies@uwe.ac.uk"},
+                   {"name": "Bruce Mclaren (UWE)", "value": 10, "category": "person"},
+                   {"name": "Ben Spencer (St Georges)", "value": 10, "category": "person"},
+                   {"name": "Trish Brown (St Georges)", "value": 10, "category": "person"}
+                 ]
+               },
+               {"name": "Natures Digital Detox", "member": "Mic Palmer", "year": 2023, "type": "exhibition", "value": 3},
+               {"name": "Piano Mapping", "member": "Maxwell Davies", "year": 2023, "type": "exhibition", "value": 3},
+               {"name": "Music Technology Venue Takeover", "member": "Maxwell Davies", "year": 2023, "type": "exhibition", "value": 3},
+               {"name": "Ultra-Low Latency Audio", "member": "Bruce Mclaren", "year": 2023, "type": "exhibition", "value": 3}
+             ]
+           },
+           {
+             "name": "Prevail",
+             "children":
+             [
+               {
+                 "name": "Members",
+                 "children":
+                 [
+                   {"name": "Luke Reed (UWE)", "value": 30, "category": "key_person", "email": "luke.reed@uwe.ac.uk"},
+                   {"name": "Martyn Harris (UWE)", "value": 10, "category": "person"},
+                   {"name": "Clare Jack (Bristol Beacon)", "value": 10, "category": "person"},
+                   {"name": "Todd Wills (Bristol Beacon)", "value": 10, "category": "person"}
+                 ]
+               },
+               {"name": "Prevail Festival", "member": "Luke Reed", "year": 2021, "type": "exhibition/event", "value": 3}
+             ]
+           },
+           {
+             "name": "Unlock Cyber",
+             "children":
+             [
+               {
+                 "name": "Members",
+                 "children":
+                 [
+                   {"name": "Elaine Brown (UWE)", "value": 30, "category": "key_person", "email": "elaine3.brown@uwe.ac.uk"}
+                 ]
+               },
+               {"name": "Unlock Cyber Taster Day", "member": "Elaine Brown", "year": 2023, "type": "exhibition/event", "value": 3},
+               {"name": "Unlock Cyber Careers Event", "member": "Elaine Brown", "year": 2023, "type": "exhibition/event", "value": 3},
+               {"name": "Unlock Cyber Challenge", "member": "Elaine Brown", "year": 2023, "type": "exhibition/event", "value": 3}
+             ]
+           },
+           {
+             "name": "Project Zulu",
+             "children":
+             [
+               {
+                 "name": "Members",
+                 "children":
+                 [
+                   {"name": "David Wyatt (UWE)", "value": 30, "category": "key_person", "email": "david2.wyatt@uwe.ac.uk"}
+                 ]
+               }
+             ]
+           }
+
+
+     ]
+   }
+ ]
+}
